@@ -1,9 +1,6 @@
 # RandomChoicePicker
 A Javascript based project that takes input from user in the form of multiple values and selects a random choice.
 
-# RandomChoicePicker
-A Javascript based project that takes input from user in the form of multiple values and selects a random choice.
-
 Working of JS :
 
 # EventListener
